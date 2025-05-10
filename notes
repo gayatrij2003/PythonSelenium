@@ -1,0 +1,12 @@
+POM--> It is a design pattern which helps to store he webelement is s object repository
+object-->Repository--> it is a class
+installation---->pip install selenium-page-factory
+object repository is  nothing but class
+Advantages-->
+1.We can avoid hard coding
+2.we can avoid NoSuchElemet
+3.We can handle StateElementReferenceException
+4.data Manipulation can be performed
+5.reusability
+
+Repository :------it is place where we storing data
